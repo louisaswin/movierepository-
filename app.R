@@ -1,3 +1,4 @@
+# link to shiny app: https://lswintosky.shinyapps.io/mediarepository/#146233
 
 tmdbapikey = "personal api key"
 token = "personal token"
